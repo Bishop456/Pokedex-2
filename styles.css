@@ -1,0 +1,36 @@
+
+body {
+  height: 100vh;
+  background-color: black;
+  color: silver;
+  display: grid;
+  text-align: center;
+
+}
+
+.titulo1 {
+  text-align: center;
+  font-size: 90px;
+  
+}
+
+input[type="text"]{
+  text-align: center;
+  font-size: 60px;
+  height: 80px;
+  width: 400px;
+}
+
+button {
+  text-align: center;
+  font-size: 40px;
+  height: 82px;
+  width: 300px
+}
+
+.contenedor{
+  height: 800px;
+  width: 1200;
+  background-image: url(multimedia/pokedex2.png);
+  background-size: contain;
+}
